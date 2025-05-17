@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Valentino
+# ¡Hola! Soy Valentino
 
 Soy desarrollador **Fullstack** con enfoque en tecnologías modernas como **Next.js**, **React**, **TypeScript**, **Node.js** y **Spring Boot**.
 
@@ -7,8 +7,8 @@ Soy desarrollador **Fullstack** con enfoque en tecnologías modernas como **Next
 ### 🚀 Tecnologías que manejo
 
 - **Lenguajes:** Java · TypeScript  
-- **Frameworks:** Spring Boot · React · Next.js · TailwindCSS  
-- **Extras:** AWS · PostgreSQL · SQL · MongoDB · Git · Docker · Shadcn/UI  
+- **Frameworks:** Spring Boot · React · Next.js · NodeJS  
+- **Extras:** AWS · PostgreSQL · SQL · MongoDB · Git · Docker · Shadcn/UI · TailwindCSS  
 
 ---
 
