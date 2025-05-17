@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Valentino
 
-<!--
-**ValentinoCopperi/ValentinoCopperi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador **Fullstack** con enfoque en tecnologías modernas como **Next.js**, **React**, **TypeScript**, **Node.js** y **Spring Boot**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías que manejo
+
+- **Lenguajes:** Java · TypeScript  
+- **Frameworks:** Spring Boot · React · Next.js · TailwindCSS  
+- **Extras:** AWS · PostgreSQL · SQL · MongoDB · Git · Docker · Shadcn/UI  
+
+---
+
+### 📫 Contacto
+
+- 📧 Email: [valentinocopperi@gmail.com](mailto:valentinocopperi@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/valentinocopperi](https://www.linkedin.com/in/valentinocopperi/)  
+- 🌐 Portfolio: [valentinocopperi.com](https://valentinocopperi.com)
+
+
