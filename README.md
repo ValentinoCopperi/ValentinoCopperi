@@ -1,8 +1,7 @@
-<h1 align="center">¡Hola! 👋 Soy Valentino Copperi</h1>
+<h1 align="center">Valentino Copperi</h1>
 
 <p align="center">
-Desarrollador <strong>Fullstack</strong> con foco en tecnologías modernas del ecosistema <strong>JavaScript</strong> y <strong>Java</strong>.  
-Apasionado por construir soluciones eficientes, escalables y con una buena experiencia de usuario 🚀
+Desarrollador <strong>Fullstack</strong> con foco en <strong>Typecript</strong> y <strong>Java</strong>.🚀
 </p>
 
 ---
@@ -34,10 +33,3 @@ Apasionado por construir soluciones eficientes, escalables y con una buena exper
 - 💼 **LinkedIn:** [linkedin.com/in/valentinocopperi](https://www.linkedin.com/in/valentinocopperi/)  
 - 🌐 **Portfolio:** [valentinocopperi.com](https://valentinocopperi.com)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValentinoCopperi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
