@@ -1,6 +1,6 @@
-# ¡Hola! Soy Valentino
+Valentino Copperi
 
-Soy desarrollador **Fullstack** con enfoque en tecnologías modernas como **Next.js**, **React**, **TypeScript**, **Node.js** y **Spring Boot**.
+Soy desarrollador **Fullstack** con enfoque en tecnologías como **Next.js**, **React**, **TypeScript**, **Node.js** y **Spring Boot**.
 
 ---
 
